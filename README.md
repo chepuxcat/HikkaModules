@@ -1,3 +1,3 @@
 My modules for hikka
 
-dev: @removewoman (TG)
+dev: @chepuxcat (TG)
