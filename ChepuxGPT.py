@@ -1,3 +1,5 @@
+# meta developer: @OnlySq
+
 from telethon import functions, types
 from .. import loader, utils
 import aiohttp
@@ -5,7 +7,7 @@ import io
 
 @loader.tds
 class OnlySqAPIMod(loader.Module):
-    """Задавайте вопросы и генерируйте изображения с помощью моделей AI через OnlySq API by @MiSidePlayer."""
+    """Задавайте вопросы и генерируйте изображения с помощью моделей AI через OnlySq API by @chepuxcat."""
     strings = {"name": "OnlySqAPI"}
 
     async def client_ready(self, client, db):
